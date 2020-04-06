@@ -1210,7 +1210,7 @@ section.lazy-placeholder:after {
   -webkit-transform: scale(0);
   transform: scale(0);
   transition-duration: 0.3s;
-  background: linear-gradient(45deg, #33a33e, #33a33e);
+  background: linear-gradient(45deg, #55b4d4, #55b4d4);
   border-radius: 50%;
 }
 .cid-rVo1HxeqZY .underline {
