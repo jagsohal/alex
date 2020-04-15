@@ -1385,50 +1385,6 @@ section.lazy-placeholder:after {
 .cid-rWeiiLbSXT H4 {
   color: #36404c;
 }
-.cid-rVo6A2jYzO {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #282124;
-}
-.cid-rVo6A2jYzO .row {
-  justify-content: space-between;
-  padding: 0 1rem;
-}
-.cid-rVo6A2jYzO .container {
-  max-width: 1500px;
-}
-.cid-rVo6A2jYzO .content-wrapper {
-  max-width: 800px;
-}
-@media (min-width: 767px) {
-  .cid-rVo6A2jYzO .container {
-    padding: 0 4rem;
-  }
-}
-.cid-rVo6A2jYzO .mbr-text,
-.cid-rVo6A2jYzO .mbr-section-btn {
-  color: #efeeee;
-}
-.cid-rVo6A2jYzO .btn {
-  width: -webkit-fill-available;
-  margin: 0.4rem!important;
-  justify-content: space-between;
-}
-.cid-rVo6A2jYzO .btn .mbr-iconfont {
-  order: 2;
-}
-.cid-rVo6A2jYzO .pt-5 {
-  padding-top: 4rem!important;
-}
-@media (max-width: 922px) {
-  .cid-rVo6A2jYzO .align-left {
-    text-align: center;
-  }
-  .cid-rVo6A2jYzO .row {
-    justify-content: center;
-    padding: 0rem;
-  }
-}
 .cid-rVL0SACyR9 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1486,6 +1442,50 @@ section.lazy-placeholder:after {
 }
 .cid-rVL0SACyR9 .logo-sub-title i {
   color: #9e9e9e;
+}
+.cid-rVo6A2jYzO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #282124;
+}
+.cid-rVo6A2jYzO .row {
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+.cid-rVo6A2jYzO .container {
+  max-width: 1500px;
+}
+.cid-rVo6A2jYzO .content-wrapper {
+  max-width: 800px;
+}
+@media (min-width: 767px) {
+  .cid-rVo6A2jYzO .container {
+    padding: 0 4rem;
+  }
+}
+.cid-rVo6A2jYzO .mbr-text,
+.cid-rVo6A2jYzO .mbr-section-btn {
+  color: #efeeee;
+}
+.cid-rVo6A2jYzO .btn {
+  width: -webkit-fill-available;
+  margin: 0.4rem!important;
+  justify-content: space-between;
+}
+.cid-rVo6A2jYzO .btn .mbr-iconfont {
+  order: 2;
+}
+.cid-rVo6A2jYzO .pt-5 {
+  padding-top: 4rem!important;
+}
+@media (max-width: 922px) {
+  .cid-rVo6A2jYzO .align-left {
+    text-align: center;
+  }
+  .cid-rVo6A2jYzO .row {
+    justify-content: center;
+    padding: 0rem;
+  }
 }
 .cid-rVnX7Z5FLC {
   height: 0 !important;
@@ -1778,7 +1778,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVnX7Z5FLC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2576,7 +2576,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVnX7Z5FLC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3061,7 +3061,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVnX7Z5FLC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3454,7 +3454,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVnX7Z5FLC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4317,7 +4317,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVnX7Z5FLC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5011,7 +5011,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVnX7Z5FLC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5217,7 +5217,7 @@ section.lazy-placeholder:after {
 .cid-rWe18hTzLi {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background65.jpg");
+  background-image: url("../../../assets/images/background60.jpg");
 }
 .cid-rWe18hTzLi .signature {
   -webkit-transform: rotate(-3deg);
@@ -6081,7 +6081,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffda00;
 }
 .cid-rVKYCBf78L button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
