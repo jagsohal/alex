@@ -1385,24 +1385,6 @@ section.lazy-placeholder:after {
 .cid-rWeiiLbSXT H4 {
   color: #36404c;
 }
-.cid-rXhkNzFTGM {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rXhkNzFTGM .mbr-text {
-  color: #767676;
-}
-.cid-rXhkNzFTGM h4 {
-  text-align: center;
-}
-.cid-rXhkNzFTGM p {
-  text-align: center;
-}
-.cid-rXhkNzFTGM .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
 .cid-rVL0SACyR9 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5329,7 +5311,7 @@ section.lazy-placeholder:after {
 .cid-rWe18hTzLi {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background61.jpg");
+  background-image: url("../../../assets/images/background60.jpg");
 }
 .cid-rWe18hTzLi .signature {
   -webkit-transform: rotate(-3deg);
@@ -5531,6 +5513,14 @@ section.lazy-placeholder:after {
   .cid-rVKROnH4mP .image-block:before {
     opacity: 0.2!important;
   }
+}
+.cid-rYcF0zt5bU {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rYcF0zt5bU H2 {
+  color: #000000;
 }
 .cid-rVKQWr4jzT {
   padding-top: 90px;
@@ -6618,6 +6608,14 @@ section.lazy-placeholder:after {
   .cid-rVKYCG1DzE .image-block:before {
     opacity: 0.2!important;
   }
+}
+.cid-rYcFxP9K0t {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rYcFxP9K0t H2 {
+  color: #000000;
 }
 .cid-rVKYCHcSBd {
   padding-top: 90px;
